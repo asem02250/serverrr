@@ -2,9 +2,9 @@
   "name": "express-hello-world",
   "version": "1.0.0",
   "description": "Expressjs Hello World example to provide faster start deploying on Cyclic platform",
-  "main": "server.js",
+  "main": "bot.js",
   "scripts": {
-    "serve": "nodemon --watch . server.js",
+    "serve": "nodemon --watch . bot.js",
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
